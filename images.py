@@ -31,8 +31,7 @@ tree1 = pygame.transform.scale(tree1,(204,408))
 tree2 = pygame.image.load("pictures/tree2.png")
 tree2 = pygame.transform.scale(tree2,(204,408))
 
-#bgimage = pygame.image.load("pictures/Background1.jpg")
-#roadrage = pygame.image.load("pictures/roadrage.png")
-#roadrage = pygame.transform.scale(roadrage,(800,300))
+bgimage = pygame.image.load("pictures/Background1.jpg")
+
 backgroundImage = pygame.image.load("pictures/surfeyrace.png")
 backgroundImage = pygame.transform.scale(backgroundImage,(800,800))
